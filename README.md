@@ -1,4 +1,4 @@
-# Support-Vectore-Machine-Q1-ForestFires
+# Support-Vector-Machine-Q1-ForestFires
 classify the Size_Categories using SVM
 month	month of the year: 'jan' to 'dec'
 day	day of the week: 'mon' to 'sun'
